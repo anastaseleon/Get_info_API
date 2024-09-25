@@ -3,7 +3,7 @@ import os
 
 def get_db_connection():
     try:
-        server = 'louverture'
+        server = 'Yourserver'
         database = 'AdventureWorks2022'
         username ='app_user'
         password = 'password'
